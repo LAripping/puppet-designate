@@ -1,3 +1,10 @@
+TODOs
+=====
+
+- [ ] Include `openstacklib::openstackclient` class to install the openstack cli now that it has the update, v2-api, designate commands and utilities.
+
+
+
 puppet-designate
 ================
 
